@@ -1,0 +1,128 @@
+
+body{
+    margin: 0;
+}
+.container{
+    width: 100%;
+    margin: auto;
+}
+.iPhone{
+    height: auto;
+    background-color: aqua;
+}
+.block-apple{
+    height: auto;
+}
+h1,h3{
+    margin: 0;
+    padding: 10px;
+}
+p{
+    font-size: 20px;
+    margin-left: 20px; 
+}
+.iPhone img{
+    width: 450px;
+    height: 350px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.ipad{
+    height: 90vh;
+    background-color: #00bfff;
+}
+.ipad {
+  
+}
+.ipad img{
+    width: 450px;
+    height: 350px;
+    margin-left: 20px;
+}
+.top_prof{
+    border: thick double black;
+}
+.top_prof_item{
+    margin-left: 15px;
+}
+.block-btn{
+    height: auto;
+    padding: 40px;
+}
+.btn-application{
+    height: 35px;
+    background-color: #ffe4c4;
+}
+.btn-application a{
+    text-decoration: none;
+    color: #000;
+}
+.btn-serial{
+    height: 35px;
+    background-color: #8a2be2;
+}
+.btn-apple{
+    height: 35px;
+    background-color: #5f9ea0;
+    border-radius: 10px;
+}
+td {
+    padding: 10px; 
+}
+.block-rating{
+    padding: 40px;
+}
+.table-rating{
+    border: dashed red;
+}
+li{
+    font-size: 25px;
+}
+.contact{
+    width: 80%;
+    border-radius: 20px;
+    background-color: #90ee90;
+    margin: auto;
+}
+.contact h1{
+    text-align: center;
+}
+.form-group label, .form-group {
+    display: block;
+    font-size: 25px;
+    padding: 10px;
+}
+.form-group p{
+    margin: 0 0 0 40px;
+}
+.form-group input{
+    width: 300px;
+    height: 30px;
+    margin: 30px 30px 0 30px;
+    font-size: 20px;
+}
+#news{
+    width: 30px;
+    padding: 30px;
+}
+.call > li > input{
+    width: 30px;
+    height: 20px;
+}
+.call h2{
+    margin: 0;
+    padding: 10px;
+}
+.call{
+    list-style-type: none;
+    margin-left: 40px;
+   padding: 10px;
+}
+.call > li{
+    padding: 20px;
+}
+.button-send{
+    width: 105px;
+    height: 32px;
+    border-radius: 10px;
+}
